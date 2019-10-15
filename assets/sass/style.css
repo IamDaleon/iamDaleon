@@ -1,0 +1,169 @@
+/*Google Fonts Import*/
+@import url("https://fonts.googleapis.com/css?family=Montserrat|Quicksand|Roboto+Slab&display=swap");
+/*Smooth Scrolling*/
+html {
+  scroll-behavior: smooth;
+}
+
+/* reset */
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat';
+}
+
+*, *::after, *::before {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* section */
+.section.s1 {
+  background-color: #000;
+}
+
+.section.s2 {
+  background-color: #181818;
+}
+
+.section.s3 {
+  background-color: #ccc;
+}
+
+.section.s4 {
+  background-color: #ddd;
+}
+
+.section.s5 {
+  background-color: #eee;
+}
+
+.section.s6 {
+  background-color: #ddd;
+}
+
+.section.s7 {
+  background-color: #ccc;
+}
+
+.section.s1 {
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+}
+
+.section.s1 .sec1_text {
+  padding: 15vw 5vw;
+  line-height: 1.2;
+  width: 100vw;
+}
+
+.section.s2 {
+  position: relative;
+  overflow: hidden;
+}
+
+.section.s2 .sec2_text {
+  line-height: 1.2;
+  width: 100vw;
+}
+
+.sec2_text .ti {
+  font-size: 2vw;
+  color: #ffffff;
+  text-align: center;
+}
+
+.sec2_text .ma {
+  font-size: 2vw;
+  color: #8a8a8a;
+  text-align: center;
+}
+
+.epic {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 11vw;
+}
+
+.maintx {
+  font-size: 5vw;
+  color: #ffffff;
+}
+
+.subtx {
+  font-size: 1.5vw;
+  color: #8a8a8a;
+}
+
+.section {
+  overflow: hidden;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #141414;
+  height: 100vh;
+}
+
+.section .sec_text {
+  width: 50vw;
+  line-height: 1.2;
+  text-align: right;
+  padding: 0 0 0 2em;
+  -webkit-box-flex: 0;
+      -ms-flex: none;
+          flex: none;
+  position: relative;
+  z-index: 2;
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.section .sec_text.title_left {
+  margin-left: -18vw;
+}
+
+.section .sec_img {
+  width: 50vw;
+}
+
+.section .sec_img img {
+  width: 100%;
+}
+
+.shrink:img {
+  width: 5%;
+  height: 5%;
+}
+
+.btn-code {
+  background-color: grey;
+}
+
+.btn-dev {
+  background-color: blue;
+}
+
+.btn:hover {
+  background-color: #6cb46a;
+}
+
+.cent {
+  display: inline;
+  float: center;
+}
+/*# sourceMappingURL=style.css.map */
