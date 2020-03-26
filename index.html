@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>iamDaleon</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="./assets/sass/navy.css">
     <link rel="stylesheet" href="./assets/sass/style.css">
     <link rel="stylesheet" href="./assets/sass/footer.css">
@@ -29,8 +30,8 @@
       <div class="subtx">Web Developer | Graphic Designer | Photographer</div>
     </h2>
   </div>
-  <div class="section s2" id="Who">
-    <h2 class="sec2_text">
+  <div class="section s2 " id="Who">
+    <h2 class="sec2_text container">
       <div class="st1 ti scrolled1">Who am I</div>
       <div class="st2 ma scrolled2"> 
         <p>
@@ -43,19 +44,20 @@
       </div>
     </h2>
   </div>
-  <div>Here is my work</div>
   <div class="section s3" id="Work">
     <h2 class="sec_text">
       <div class="st1 scrolled1 maintx">The Poke Point</div>
       <div class="st2 scrolled2 subtx">Design Research, UI/UX</div>
-      <div class="st2 scrolled2 subtx">
-        <h3>Description</h3>
+      <div class="st2 scrolled2 partx">
+        <span class="label">Description</span>
         <p>
             The Poke Point is Hawaiian inspired 
             <br>style resturant. 
         </p>
         <p>
-          I provided them with the UI layout 
+         My role in this project is to provide 
+          <br />
+          them with the UI layout 
           <br>
           and photography.
         </p>
@@ -64,29 +66,126 @@
     <figure class="sec_img">
         <div class="si1 scrolled3 cent"><img src="./assets/imgs/macbookPRO.png"></div>
         <div class="lineup ">
-          <a href="#" class="shrink">
-                <img src="./assets/imgs/paint-palette.svg" alt="Designing" srcset="" width="55vw" height="55vh">
-          </a>
-              <a href="#" class="shrink">
-                  <img src="./assets/imgs/data.svg" alt="Web Code" srcset="" width="55vw" height="55vh">
-            </a>
-              <a href="#" class="shrink">
-                  <img src="./assets/imgs/computer.svg" alt="Web Design" srcset="" width="55vw" height="55vh">
-            </a>
+
+<div class="row">
+  <div class="col">
+    <a href="#" class="shrink">
+      <img src="./assets/imgs/paint-palette.svg" alt="Designing" srcset="" width="55vw" height="55vh">
+    </a>
+    <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary btn-block btntop" data-toggle="modal" data-target="#exampleModalCenter">
+  Preview Site
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalCenterTitle">The Poke Point </h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        This is the story of a girl
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+  <div class="col">
+    <a href="#" class="shrink">
+      <img src="./assets/imgs/computer.svg" alt="Web Design" srcset="" width="55vw" height="55vh">
+    </a>
+    <!-- Button trigger modal -->
+<a href="http://www.thepokepoint.com">
+    <button type="button" class="btn btn-primary btn-block btntop">
+  View Live Site
+</div>
+</a>
+</button>
+</div>
       </div>
     </figure>
   </div>
   <!--//section s2 -->
-  
+
   <div class="section s4">
-    <figure class="sec_img">
-      <div class="si1 scrolled4"><img src="./assets/imgs/Desktop.png"></div>
-    </figure>
-    <h2 class="sec_text title_left">
-      <div class="st1 scrolled1">Carrera Roberts</div>
-      <div class="st2 scrolled2">Design Research</div>
+        
+    
+    
+<figure class="sec_img">
+  <div class="si1 scrolled3"><img src="./assets/imgs/surface.png"></div>
+  <div class="lineup ">
+
+<div class="row">
+<div class="col">
+<a data-toggle="modal" data-target="#exampleModalCenter" class="shrink">
+<img src="./assets/imgs/paint-palette.svg" alt="Designing" srcset="" width="55vw" height="55vh">
+</a>
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary btn-block btntop" data-toggle="modal" data-target="#exampleModalCenter">
+Preview Site
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-header">
+  <h5 class="modal-title" id="exampleModalCenterTitle">Carrera Roberts</h5>
+  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<div class="modal-body">
+  This is the story of a girl
+</div>
+<div class="modal-footer">
+  <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col">
+<a href="#" class="shrink">
+<img src="./assets/imgs/computer.svg" alt="Web Design" srcset="" width="55vw" height="55vh">
+</a>
+<!-- Button trigger modal -->
+<a href="http://www.thepokepoint.com">
+<button type="button" class="btn btn-primary btn-block btntop">
+View Live Site
+</div>
+</a>
+</button>
+</div>
+</div>
+</figure>
+    <h2 class="sec_text title_right">
+      <div class="st1 scrolled1 maintx">Carrera Roberts</div>
+      <div class="st2 scrolled2 subtx">Design Research, UI/UX</div>
+      <div class="st2 scrolled2 partx">
+        <span class="label">Description</span>
+        <p>
+            The Poke Point is Hawaiian inspired 
+            <br>style resturant. 
+        </p>
+        <p>
+         My role in this project is to provide 
+          <br />
+          them with the UI layout 
+          <br>
+          and photography.
+        </p>
+      </div>
     </h2>
   </div>
+  <!--//section s5 -->
   <!--//section s3 -->
   
   <div class="section s5">
@@ -130,7 +229,7 @@
       <div class="st2 scrolled2">Digital Designer</div>
     </h2>
   </div>
-  <div class="container" id="Contact">
+  <div class="cont" id="Contact">
     <h3 class="titlehead">Contact Us</h3>
     <form action="action_page.php">
   
@@ -149,31 +248,27 @@
   </div>
 </main>
 <footer>
-  <div class="">
+  <div class="condiv">
         
-    <a href="#" class="shrink">
-          <img src="./assets/imgs/social/behance-network-logo.svg" alt="Designing" srcset="" width="75" height="75">
+    <a href="https://www.behance.net/iamDaleon">
+          <img  class="shrink" src="./assets/imgs/social/behance-network-logo.svg" alt="Designing" srcset="">
     </a>
-    <a href="#" class="shrink">
-        <img src="./assets/imgs/social/dribble.svg" alt="Designing" srcset="" width="75" height="75">
+    <a href="https://dribbble.com/IamDaleon">
+        <img class="shrink" src="./assets/imgs/social/dribble.svg" alt="Designing" srcset="">
   </a>
-  <a href="#" class="shrink">
-      <img src="./assets/imgs/social/twitter.svg" alt="Designing" srcset="" width="75" height="75">
+  <a href="https://https://github.com/IamDaleon">
+      <img class="shrink" src="./assets/imgs/social/github-character.svg" alt="Designing" srcset="">
   </a>
-  <a href="#" class="shrink">
-      <img src="./assets/imgs/social/github-character.svg" alt="Designing" srcset="" width="75" height="75">
+  <a href="http://twitter.com/iamDaleon">
+      <img class="shrink" src="./assets/imgs/social/twitter.svg" alt="Designing" srcset="">
   </a>
-  <a href="#" class="shrink">
-      <img src="./assets/imgs/social/mail.svg" alt="Designing" srcset="" width="75" height="75">
-  </a>
-    <div>Behance<i class="im im-behance"></i></div>
-    <div>Dribbble</div>
-    <div>Twitter</div>
-    <div>Mail</div>
   </div>
 </footer>
 <!-- Script Imports -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="./assets/js/script.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 </body>
 </html>

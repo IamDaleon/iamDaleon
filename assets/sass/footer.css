@@ -36,7 +36,7 @@ input[type=submit]:hover {
 }
 
 /* Add a background color and some padding around the form */
-.container {
+.cont {
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20%;
@@ -50,5 +50,25 @@ input[type=submit]:hover {
 
 footer {
   background-color: black;
+}
+
+.condiv {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  /* make main axis horizontal (default setting) */
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  /* center items horizontally, in this case */
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  /* center items vertically, in this case */
+  height: 200px;
 }
 /*# sourceMappingURL=footer.css.map */

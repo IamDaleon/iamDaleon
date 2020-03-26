@@ -27,7 +27,7 @@ input[type=text], select, textarea {
   }
   
   /* Add a background color and some padding around the form */
-  .container {
+  .cont{
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20%;
@@ -41,6 +41,15 @@ input[type=text], select, textarea {
 
   footer {
       background-color: black;
-  }
+      }
+
+      .condiv{
+        display: flex;
+        flex-direction: row;     /* make main axis horizontal (default setting) */
+        justify-content: center; /* center items horizontally, in this case */
+        align-items: center;     /* center items vertically, in this case */
+        height: 200px;
+      }
+    
 
   
