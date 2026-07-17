@@ -8,25 +8,13 @@ I also run **DListPhotos**, specializing in portrait, beauty, fashion, and comme
 
 ---
 
-## Featured Work
-
-### 🔭 Solar Hydroponics
-
-An Arduino-based project exploring solar power, environmental sensors, automation, and sustainable growing systems.
-
-[View the repository](https://github.com/IamDaleon/SolarHydroPonics)
-
-### 📸 DListPhotos
-
-Portrait, beauty, fashion, and commercial photography in the Dallas–Fort Worth area.
-
----
-
 ## Technologies
 
-`JavaScript` `React` `Next.js` `Node.js` `WordPress` `WooCommerce`
-`Linux` `Docker` `Nginx` `PostgreSQL` `MySQL`
-`vLLM` `Ollama` `llama.cpp` `C` `C++` `Arduino`
+`HTML` `CSS` `JavaScript` `React` `Next.js` `Python` `Node.js` `Fastify` `REST APIs`
+`WordPress` `WooCommerce` `PostgreSQL` `MySQL` `SurrealDB`
+`Linux` `Docker` `Docker Compose` `Nginx` `Caddy` `Git` `GitHub`
+`vLLM` `Ollama` `llama.cpp` `Python` `C` `Arduino`
+
 
 ---
 
