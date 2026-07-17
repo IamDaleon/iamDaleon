@@ -1,80 +1,46 @@
 ### Hi there 👋
 
-I'm Daleon Listhrop — a full-stack web developer, creative technologist, and photographer based in the Dallas–Fort Worth area.
+I’m **Daleon Listhrop** — a software engineer, creative technologist, and photographer based in the Dallas–Fort Worth area.
 
-I build practical digital systems that connect design, development, automation, and AI. My work spans WordPress/WooCommerce migrations, React/Next.js applications, custom business tools, Linux servers, Docker-based services, and local AI infrastructure.
+I build web applications, business tools, e-commerce platforms, self-hosted services, and local AI infrastructure using React, Next.js, Node.js, WordPress, Linux, and Docker.
 
-Outside of development, I run DListPhotos, where I focus on portrait, beauty, fashion, and commercial photography. I also explore product design, embedded systems, C/C++, and small-device computing as part of my long-term interest in bridging software, hardware, and creative production.
-
----
-
-## About Me
-
-🔭 I currently work as a Sr. Software Engineer while also building full-stack systems, internal tools, and AI-powered workflows.
-
-🧠 I’m developing local AI infrastructure, focused on running local models, GPU nodes, Docker services, and team-accessible AI tooling.
-
-🛠️ My experience includes e-commerce modernization, WordPress/WooCommerce migrations, inventory systems, SEO collaboration, branding improvements, and custom web applications.
-
-📸 I’m also the photographer behind **DListPhotos**, specializing in portrait, beauty, fashion, and commercial photography.
-
-⚙️ I’m currently expanding deeper into Linux, Docker, local AI models, C/C++, embedded systems, and hardware-focused development.
+I also run **DListPhotos**, specializing in portrait, beauty, fashion, and commercial photography. My broader interests include embedded systems, edge computing, product design, and the intersection of software, hardware, and creative production.
 
 ---
 
-## Current Focus
-
-- Full-stack web development
-- React, Next.js, WordPress, and WooCommerce
-- Local AI infrastructure and model hosting
-- Docker, Linux, and self-hosted developer tools
-- Photography systems and creative workflows
-- C/C++ for performance, embedded devices, and hardware-level understanding
-- Building practical tools for small businesses and creative teams
-
----
-
-## Projects
+## Featured Work
 
 ### 🔭 Solar Hydroponics
-Arduino-based solar hydroponics project exploring automation, sensors, and sustainable growing systems.  
-[GitHub Repository](https://github.com/IamDaleon/SolarHydroPonics)
+
+An Arduino-based project exploring solar power, environmental sensors, automation, and sustainable growing systems.
+
+[View the repository](https://github.com/IamDaleon/SolarHydroPonics)
 
 ### 📸 DListPhotos
-A photography brand focused on portrait, beauty, fashion, and commercial creative work in the DFW area.
+
+Portrait, beauty, fashion, and commercial photography in the Dallas–Fort Worth area.
 
 ---
 
-## Technical Skills
+## Technologies
 
-| Area | Tools / Technologies | Level |
-| --- | --- | --- |
-| Front-End | HTML, CSS, JavaScript, React, Next.js | Advanced |
-| Back-End | Node.js, APIs, server-side logic | Intermediate |
-| CMS / E-Commerce | WordPress, WooCommerce, Shopify migration | Advanced |
-| DevOps / Hosting | Linux, Docker, Nginx, self-hosted services | Intermediate |
-| AI Infrastructure | Ollama, llama.cpp, local models, GPU-based inference | Growing |
-| Databases | MySQL, PostgreSQL, SurrealDB | Intermediate |
-| Programming | Python, C, C++ | Growing |
-| Creative Tools | Affinity Photo, Capture One, Blender, photography workflows | Intermediate–Advanced |
+`JavaScript` `React` `Next.js` `Node.js` `WordPress` `WooCommerce`
+`Linux` `Docker` `Nginx` `PostgreSQL` `MySQL`
+`vLLM` `Ollama` `llama.cpp` `C` `C++` `Arduino`
 
 ---
 
-## Creative Side
+## Beyond Code
 
-📸 Photographer since 2008  
-🎨 Interested in design, drawing, hard-surface modeling, and visual storytelling  
-🛹 Skateboarding helps me reset and think clearly  
-✈️ Student general aviation pilot with an interest in aviation systems and small aircraft  
-
----
-
-## Connect With Me
-
-📫 Twitter/X: [@iamDaleon](https://twitter.com/iamDaleon)  
-💼 LinkedIn: [Daleon Listhrop](https://www.linkedin.com/in/daleonlisthrop/)  
-🎨 ArtStation: [iamdaleon](https://iamdaleon.artstation.com)  
+📸 Photographer since 2008
+🎨 Creative interests include product design, illustration, hard-surface modeling, and visual storytelling
+🛹 Skateboarder
+✈️ Student general aviation pilot
 
 ---
 
-**I like building systems that are useful, visual, efficient, and connected — from websites and AI tools to photography workflows and hardware experiments.**
+## Connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/daleonlisthrop/)
+📫 [Twitter/X](https://twitter.com/iamDaleon)
+🎨 [ArtStation](https://iamdaleon.artstation.com)
