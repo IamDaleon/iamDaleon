@@ -1,69 +1,57 @@
 # Hi, I'm Daleon 👋
 
-I'm a **Software Engineer** based in the Dallas–Fort Worth area working across **full-stack development, infrastructure engineering, and AI systems**.
+I'm a **Software Engineer** based in the Dallas–Fort Worth area working across **full-stack development, infrastructure, AI systems, and embedded computing**.
 
-I build and modernize production applications, APIs, databases, Linux infrastructure, self-hosted services, and private AI inference environments. My work spans the application stack—from React interfaces and Node.js APIs to Dockerized infrastructure and local LLM deployment.
+I build applications end-to-end—from React interfaces and APIs to databases, Linux infrastructure, Dockerized services, and private AI inference.
 
 ---
 
-## What I Work With
+## Core Stack
 
-### Application Engineering
-
-`TypeScript` `JavaScript` `React` `Next.js` `Node.js` `Fastify` `Express` `REST APIs`
+### Software
+`TypeScript` `JavaScript` `React` `Next.js` `Node.js` `Fastify` `Express`
 
 ### Data
-
-`PostgreSQL` `SQLite` `Turso/libSQL` `Drizzle ORM` `SQL`
+`PostgreSQL` `SQLite` `Turso/libSQL` `Drizzle ORM`
 
 ### Infrastructure
+`Linux` `Docker` `Nginx` `Caddy` `systemd` `Gitea` `Git`
 
-`Linux` `Docker` `Docker Compose` `Nginx` `Caddy` `Apache` `systemd` `Gitea` `Git` `GitHub`
+### AI
+`vLLM` `Ollama` `llama.cpp` `Hugging Face`
 
-### AI Systems
-
-`vLLM` `Ollama` `llama.cpp` `Hugging Face` `OpenAI-compatible APIs`
-
-### Systems & Embedded
-
-`C` `C++` `Python` `FreeRTOS` `Arduino` `Linux SBCs`
+### Systems
+`C` `C++` `Python` `Go` `Rust` `FreeRTOS` `Linux SBCs`
 
 ---
 
-## Current Areas of Focus
+## Engineering Focus
 
-* Building and modernizing **full-stack applications**
-* Designing **self-hosted engineering infrastructure**
-* Deploying **private and local AI inference systems**
-* Exploring **embedded systems and edge computing**
-* Expanding my understanding of software from the **application layer down to the hardware**
-
----
-
-## Engineering Interests
-
-I enjoy projects that connect multiple layers of engineering:
+I enjoy building systems across multiple layers:
 
 **Frontend → API → Database → Linux → Infrastructure → AI → Hardware**
 
-I'm particularly interested in systems where software interacts with the physical world, including embedded computing, automation, sensors, edge devices, and local-first infrastructure.
+Current interests include:
+
+- Full-stack application architecture
+- Self-hosted infrastructure
+- Private/local AI inference
+- Embedded systems and edge computing
+- Hardware and software integration
 
 ---
 
 ## Beyond Code
 
-📸 **Photography** — Photographer since 2008 and founder of **DListPhotos**, focused on portrait, beauty, fashion, and commercial photography.
-
-🎨 **Creative Technology** — Product design, hard-surface 3D modeling, illustration, and visual storytelling.
-
-✈️ **Aviation** — Student general aviation pilot.
-
+📸 **Photography** — Founder of DListPhotos  
+🎨 **Creative Technology** — 3D, design, and visual storytelling  
+✈️ **Aviation** — Student general aviation pilot  
 🛹 **Skateboarding**
 
 ---
 
 ## Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/daleonlisthrop/)
-🎨 [ArtStation](https://iamdaleon.artstation.com/)
+💼 [LinkedIn](https://www.linkedin.com/in/daleonlisthrop/)  
+🎨 [ArtStation](https://iamdaleon.artstation.com/)  
 📫 [Twitter / X](https://twitter.com/iamDaleon)
